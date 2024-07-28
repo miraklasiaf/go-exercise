@@ -1,3 +1,3 @@
 # go-exercise
 
-## Exercises from https://gobyexample.com
+## Exercises from The GO Programming Language 
